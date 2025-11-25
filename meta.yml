@@ -1,3 +1,9 @@
-﻿name: meta-poc-001
-version: 0.1
-deps: []
+﻿required_when:
+forbidden_when:
+requires:
+  - B >= 3.0
+  - C >= 2.0
+  - D >= 1.0
+conflicts:
+provides:
+replaces:
