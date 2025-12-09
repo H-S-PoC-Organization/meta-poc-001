@@ -18,3 +18,4 @@ dummy o1.8
 dummy o1.9
 dummy o2.0
 dummy o2.1
+dummy o2.2
